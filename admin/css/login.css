@@ -1,0 +1,101 @@
+body{
+    width: inherit;
+    height: inherit;
+
+}
+.container-feedback {
+
+    margin: 12% auto;
+    margin-bottom: 5%;
+
+}
+.nav-link
+{
+    color: white;
+}
+.cont-pagination
+{
+    margin:0 45%;
+    margin-bottom: 10%;
+    position: absolute;
+}
+.body-container
+{
+    width: 900px;
+    height: inherit;
+    margin:0% auto;
+    padding: 20px;
+    position:center;
+
+}
+.bar
+{
+    width:auto;
+    height: 55px;
+    background-color: black;
+    margin-bottom: 30px;
+    padding: 0;
+    margin-top:-25px;
+}
+.bar h3
+{
+    text-align: center;
+    font-family: 'Harlow Solid Italic';
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 12.5px;
+}
+.input-group
+{
+    margin:0% 7%;
+    padding-bottom: 20px;
+    margin-bottom: 8px;
+}
+
+.input-group label
+{
+
+    padding-left: 160px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+
+
+.input-group input, select
+{
+
+    position: absolute;
+    right:500px;
+    margin-top: -5px;
+
+}
+.input-group input[type=text],input[type=password],input[type=date],select,submit
+{
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+
+    font-size: 18px;
+    color: black;
+    border: 1px solid black;
+}
+.submit-button input[type=submit]
+{
+    width: 410px;
+    height: 35px;
+    background-color: black;
+    border: 1px solid lightgoldenrodyellow;
+    border-radius: 5px;
+    font-family: "Times New Roman";
+    font-size: 18px;
+    color: white;
+
+}
+.container-login
+{
+    margin: 15% auto;
+}
+.footer
+{}
