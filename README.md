@@ -1,1 +1,2 @@
 # employeemanagement
+I was engaged in a project during the COVID-19 pandemic that involved the development of a management system. This system focused on task assignment to staff members and included monitoring their progress. It offered functionalities such as task updates, deletions, and project status additions. The project was implemented using a combination of PHP, JavaScript, Bootstrap, CSS, and HTML. Additionally, it was connected to an SQL database to store and manage the data efficiently.
